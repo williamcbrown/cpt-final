@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Im=6#+0j$v9)J0*;jGPE" x="0" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Im=6#+0j$v9)J0*;jGPE" x="0" y="0"><statement name="HANDLER"><block type="tilemap_editor" id="1$m+*=YRQ3Wk8-WMo:Sp"><field name="tilemap">tilemap`level1`</field><data>{"commentRefs":[],"fieldData":{"tilemap":"level1"}}</data></block></statement></block></xml>
